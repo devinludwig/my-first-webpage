@@ -1,0 +1,46 @@
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 100px;
+  font-family:fantasy;
+}
+
+h2 {
+  color: purple;
+  text-align: center;
+  font-size: 60px;
+  font-family:fantasy;
+}
+
+h3 {
+  color: blue;
+  font-size: 50px;
+  font-family: monospace;
+}
+
+p {
+  color: blue;
+  font-size: 40px;
+  font-family: monospace;
+  line-height: normal;
+}
+
+li {
+  color: teal;
+  font-size: 30px;
+  font-family:sans-serif;
+  font-weight: bolder;
+}
+
+img {
+    max-width: 650px;
+    height: auto;
+}
+
+body {
+  background-color: white
+}
+
+a {
+  color: teal;
+}
